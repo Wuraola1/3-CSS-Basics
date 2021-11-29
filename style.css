@@ -1,0 +1,15 @@
+h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-style: normal;
+  color: rgb(128, 216, 216);
+}
+
+header {
+  background-color: rgb(245, 255, 255);
+}
+
+aside {
+  background-color: cadetblue;
+  border-top: rgb(0, 0, 0);
+}
